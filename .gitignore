@@ -1,0 +1,7 @@
+**/certs
+**/kafkaCerts
+.vscode
+*.pyc
+venv
+.idea
+.DS_Store
